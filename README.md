@@ -1,2 +1,24 @@
-Python Programming Practice: Control Statements and Loops
-This repository contains a collection of basic Python scripts designed for practice. The problems focus on fundamental programming concepts like conditional statements (if-else) and loops (for, while).
+# Control Statements in Python
+
+This repository contains Python programs demonstrating the use of **control statements** such as conditionals (`if-else`) and loops (`for`, `while`).  
+The programs are organized into two main sections:
+
+---
+
+## 📂 Folder Structure
+
+### 1. Control_Statement_1 (Conditionals)
+This folder contains Python scripts based on **decision-making statements**:
+
+---
+
+### 2. Control_Statement_2 (Loops)
+This folder contains Python programs using **loops**: 
+
+---
+
+## 📑 Reference PDFs
+- `SHEET - 1 Control Statement...pdf` → Theory and exercises on **decision-making**.  
+- `SHEET - 2 Control Statement (Loops).pdf` → Theory and exercises on **loops**.  
+
+---
