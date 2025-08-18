@@ -1,0 +1,2 @@
+Python Programming Practice: Control Statements and Loops
+This repository contains a collection of basic Python scripts designed for practice. The problems focus on fundamental programming concepts like conditional statements (if-else) and loops (for, while).
