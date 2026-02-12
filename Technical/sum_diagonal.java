@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class sum_diagonal {
+public class sum_Diagonal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter rows and cols");
@@ -21,16 +21,6 @@ public class sum_diagonal {
                 }
             }
         }
-        System.out.println("Matrix is: ");
-        for(int i=0;i<matrix.length;i++){
-            for(int j=0;j<matrix.length;j++){
-                System.out.print(matrix[i][j] + " ");
-            }
-            System.out.println();
-        }
-
         System.out.println("Sum of diagonal element is: " + sum);
-
-
     }
 }
