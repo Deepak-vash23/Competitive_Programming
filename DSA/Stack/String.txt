@@ -1,0 +1,30 @@
+ques1. 
+A string consisting of '(' and ')'. You need to find whether parenthesis in are balanced or not. if it is balanced then return 1 else return 0.
+
+Input format:
+Arguments:
+1. String A
+
+Output:
+return 1 if paranthesis are balanced if not then 0
+
+Eg.
+A = "(()())"
+output = 1
+
+B = "(()"
+output = 0
+
+
+Approach:
+no. of "(" and ")" should be equal.
+
+if it is a "(" then push it in a stack and if it is a ")" pop from stack. If stack isempty while trying to pop it is not balanced and return 0.
+if after process stack is empty then it is balanced.
+
+
+QUES 2
+Given a string A denoting an expression, it contains following operators:
++, -, *, /
+Check whether A has redundant braces or not
+note: A will always be a valid expression and will not contain any white spaces

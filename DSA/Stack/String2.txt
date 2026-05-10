@@ -1,0 +1,5 @@
+you have a string A to transform the string you should perform:
+1. identify first occurence of consecutive identical pairs of characters within the string
+2. Remove this pair of identical characters from the string 
+3. Repeat 1 and 2 until there are no more consecutive identical pairs of characters.
+4. The final result will be the transformed.

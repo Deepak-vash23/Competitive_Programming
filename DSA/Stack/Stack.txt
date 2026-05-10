@@ -1,0 +1,8 @@
+STACK:
+A Stack is a linear data structure That follows LIFO Order. This means that the last element inserted is the first one to be removed.
+Eg. Browser History
+
+Operations:
+1. Push - adds an element to the top of the stack.
+2. Pop() - removes the top element from the stack.
+3. isEmpty() - Check whether the stack is the empty or not, returns True if stack is empty and returns False if stack has elements.

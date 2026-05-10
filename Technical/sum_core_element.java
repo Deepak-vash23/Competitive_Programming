@@ -26,3 +26,5 @@ public class sum_core_element {
         System.out.println(sum);
     }
 }
+
+

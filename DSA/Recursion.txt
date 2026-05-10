@@ -1,0 +1,4 @@
+Two main things in RECURSION:
+
+1. Base Case / Terminating Condition 
+2. Recursive Call
