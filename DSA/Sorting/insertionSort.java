@@ -9,7 +9,6 @@ public class insertionSort {
             while(j>=0 && key <arr[j]){
                 arr[j+1] = arr[j];
                 j=j-1;
-                System.out.println(arr[j+1]);
             }
             arr[j+1]=key;
         }

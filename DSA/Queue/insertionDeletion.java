@@ -31,5 +31,9 @@ public class insertionDeletion {
                 front++;
             }
         }
+
+        for (int i = 0; i < q.length; i++) {
+            System.out.print(q[i] + " ");
+        }
     }
 }
